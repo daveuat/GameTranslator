@@ -5,4 +5,6 @@
 .Net 8.0 LTS
 
 Version .01 Alpha
-- Testing started. Running at least...
+- Testing started. It's running at least...
+- Text needs to be ontop of translated text or keep window to the side and read it that way.
+- Change the offset in window picker to be in the overlay
